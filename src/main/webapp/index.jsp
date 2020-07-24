@@ -11,6 +11,6 @@
     <title>gradle-test</title>
   </head>
   <body>
-  hadoe d丹丹
+  hadoe
   </body>
 </html>
